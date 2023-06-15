@@ -17,5 +17,5 @@ I'm a software Engineer with experience in various programming languages and fra
 <a href="https://codeforces.com/profile/oscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="oscar" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscargongora&show_icons=true&locale=en&layout=compact" alt="oscargongora" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscargongora&show_icons=true&locale=en&layout=compact&langs_count=8&theme=transparent" alt="oscargongora" /></p>
 
